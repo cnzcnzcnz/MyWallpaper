@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.abstraksi.katakatamutiara2020">
+    package="com.abstraksi.btswallpaperhd2020">
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.SET_WALLPAPER" />
@@ -15,7 +15,7 @@
     <uses-permission android:name="android.permission.VIBRATE" />
 
     <application
-        android:name="com.abstraksi.katakatamutiara2020.App"
+        android:name="com.abstraksi.btswallpaperhd2020.App"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
@@ -25,9 +25,9 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme.NoActionBar"
         android:usesCleartextTraffic="true">
-        <activity android:name="com.abstraksi.katakatamutiara2020.presentation.main.PrivacyPolicyActivity"></activity>
-        <activity android:name="com.abstraksi.katakatamutiara2020.presentation.main.FavoriteActivity" />
-        <activity android:name="com.abstraksi.katakatamutiara2020.presentation.main.SplashActivity">
+        <activity android:name="com.abstraksi.btswallpaperhd2020.presentation.main.PrivacyPolicyActivity"></activity>
+        <activity android:name="com.abstraksi.btswallpaperhd2020.presentation.main.FavoriteActivity" />
+        <activity android:name="com.abstraksi.btswallpaperhd2020.presentation.main.SplashActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -44,10 +44,10 @@
             android:screenOrientation="portrait"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity
-            android:name="com.abstraksi.katakatamutiara2020.presentation.main.PhotoViewActivity"
+            android:name="com.abstraksi.btswallpaperhd2020.presentation.main.PhotoViewActivity"
             android:hardwareAccelerated="true" />
         <activity
-            android:name="com.abstraksi.katakatamutiara2020.presentation.main.HomeActivity"
+            android:name="com.abstraksi.btswallpaperhd2020.presentation.main.HomeActivity"
             android:hardwareAccelerated="true" />
 
         <provider
@@ -61,11 +61,11 @@
         </provider>
 
         <service
-            android:name="com.abstraksi.katakatamutiara2020.service.UpdateDataService"
+            android:name="com.abstraksi.btswallpaperhd2020.service.UpdateDataService"
             android:enabled="true"
             android:exported="false" />
         <service
-            android:name="com.abstraksi.katakatamutiara2020.service.MyFirebaseMessagingService"
+            android:name="com.abstraksi.btswallpaperhd2020.service.MyFirebaseMessagingService"
             android:exported="false">
             <intent-filter>
                 <action android:name="com.google.firebase.MESSAGING_EVENT" />
@@ -77,7 +77,7 @@
             android:resource="@drawable/logo" />
 
         <service
-            android:name="com.abstraksi.katakatamutiara2020.service.MaterialLiveWallpaperService"
+            android:name="com.abstraksi.btswallpaperhd2020.service.MaterialLiveWallpaperService"
             android:enabled="true"
             android:label="@string/app_name"
             android:permission="android.permission.BIND_WALLPAPER">

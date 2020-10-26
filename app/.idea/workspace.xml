@@ -10,7 +10,81 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30c3a04c-0443-4177-9c7a-0d1ae6fe2ccc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/assetWizardSettings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/assetWizardSettings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/google-services.json" beforeDir="false" afterPath="$PROJECT_DIR$/google-services.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ic_launcher-playstore.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/ic_launcher-playstore.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/katakatamutiara2020/App.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/btswallpaperhd2020/App.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/katakatamutiara2020/config/AdsHelper.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/btswallpaperhd2020/config/AdsHelper.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/katakatamutiara2020/config/AdsUtils.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/btswallpaperhd2020/config/AdsUtils.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/katakatamutiara2020/config/ContentConfig.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/btswallpaperhd2020/config/ContentConfig.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/katakatamutiara2020/data/db/AppDatabase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/btswallpaperhd2020/data/db/AppDatabase.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/katakatamutiara2020/data/db/dao/BaseDao.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/btswallpaperhd2020/data/db/dao/BaseDao.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/katakatamutiara2020/data/db/dao/FavoriteDao.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/btswallpaperhd2020/data/db/dao/FavoriteDao.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/katakatamutiara2020/data/db/dao/PhotoDao.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/btswallpaperhd2020/data/db/dao/PhotoDao.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/katakatamutiara2020/data/db/entity/FavoriteEntity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/btswallpaperhd2020/data/db/entity/FavoriteEntity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/katakatamutiara2020/data/db/entity/PhotoEntity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/btswallpaperhd2020/data/db/entity/PhotoEntity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/katakatamutiara2020/data/mapper/PhotoMapper.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/btswallpaperhd2020/data/mapper/PhotoMapper.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/katakatamutiara2020/data/pref/PreferencesHelper.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/btswallpaperhd2020/data/pref/PreferencesHelper.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/katakatamutiara2020/data/remote/ApiClient.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/btswallpaperhd2020/data/remote/ApiClient.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/katakatamutiara2020/data/remote/response/AdsJsonResponse.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/btswallpaperhd2020/data/remote/response/AdsJsonResponse.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/katakatamutiara2020/data/remote/response/ListPhotoPinterestResponse.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/btswallpaperhd2020/data/remote/response/ListPhotoPinterestResponse.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/katakatamutiara2020/data/remote/service/ApiService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/btswallpaperhd2020/data/remote/service/ApiService.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/katakatamutiara2020/data/repository/AdsJsonRepositoryImpl.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/btswallpaperhd2020/data/repository/AdsJsonRepositoryImpl.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/katakatamutiara2020/data/repository/PhotoRepositoryImpl.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/btswallpaperhd2020/data/repository/PhotoRepositoryImpl.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/katakatamutiara2020/di/Modules.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/btswallpaperhd2020/di/Modules.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/katakatamutiara2020/domain/Photo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/btswallpaperhd2020/domain/Photo.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/katakatamutiara2020/domain/repository/AdsJsonRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/btswallpaperhd2020/domain/repository/AdsJsonRepository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/katakatamutiara2020/domain/repository/PhotoRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/btswallpaperhd2020/domain/repository/PhotoRepository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/katakatamutiara2020/presentation/base/BaseActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/btswallpaperhd2020/presentation/base/BaseActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/katakatamutiara2020/presentation/base/BaseViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/btswallpaperhd2020/presentation/base/BaseViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/katakatamutiara2020/presentation/main/FavoriteActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/btswallpaperhd2020/presentation/main/FavoriteActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/katakatamutiara2020/presentation/main/HomeActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/btswallpaperhd2020/presentation/main/HomeActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/katakatamutiara2020/presentation/main/PhotoViewActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/btswallpaperhd2020/presentation/main/PhotoViewActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/katakatamutiara2020/presentation/main/PrivacyPolicyActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/btswallpaperhd2020/presentation/main/PrivacyPolicyActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/katakatamutiara2020/presentation/main/SplashActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/btswallpaperhd2020/presentation/main/SplashActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/katakatamutiara2020/presentation/main/fragment/PhotoListFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/btswallpaperhd2020/presentation/main/fragment/PhotoListFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/katakatamutiara2020/presentation/main/fragment/PhotoViewFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/btswallpaperhd2020/presentation/main/fragment/PhotoViewFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/katakatamutiara2020/presentation/main/item/FanNativeItem.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/btswallpaperhd2020/presentation/main/item/FanNativeItem.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/katakatamutiara2020/presentation/main/item/NativeAdItem.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/btswallpaperhd2020/presentation/main/item/NativeAdItem.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/katakatamutiara2020/presentation/main/item/PhotoItem.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/btswallpaperhd2020/presentation/main/item/PhotoItem.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/katakatamutiara2020/presentation/state/UiState.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/btswallpaperhd2020/presentation/state/UiState.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/katakatamutiara2020/presentation/viewmodel/AdsJsonViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/btswallpaperhd2020/presentation/viewmodel/AdsJsonViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/katakatamutiara2020/presentation/viewmodel/PhotoViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/btswallpaperhd2020/presentation/viewmodel/PhotoViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/katakatamutiara2020/service/MaterialLiveWallpaperService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/btswallpaperhd2020/service/MaterialLiveWallpaperService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/katakatamutiara2020/service/MyFirebaseMessagingService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/btswallpaperhd2020/service/MyFirebaseMessagingService.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/katakatamutiara2020/service/UpdateDataService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/btswallpaperhd2020/service/UpdateDataService.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/katakatamutiara2020/utils/Constants.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/btswallpaperhd2020/utils/Constants.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/katakatamutiara2020/utils/EdlessRecyclerViewScrollListener.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/btswallpaperhd2020/utils/EdlessRecyclerViewScrollListener.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/katakatamutiara2020/utils/Ext.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/btswallpaperhd2020/utils/Ext.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/katakatamutiara2020/utils/ItemOffsetDecoration.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/btswallpaperhd2020/utils/ItemOffsetDecoration.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/katakatamutiara2020/utils/Utils.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/btswallpaperhd2020/utils/Utils.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/katakatamutiara2020/utils/listener/OnAppItemClickListener.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/btswallpaperhd2020/utils/listener/OnAppItemClickListener.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/katakatamutiara2020/utils/rx/AppSchedulerProvider.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/btswallpaperhd2020/utils/rx/AppSchedulerProvider.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/katakatamutiara2020/utils/rx/RxExt.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/btswallpaperhd2020/utils/rx/RxExt.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/katakatamutiara2020/utils/rx/SchedulerProvider.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/btswallpaperhd2020/utils/rx/SchedulerProvider.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/logo.webp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/drawable/logo.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/splashscreen.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/drawable/splashscreen.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values/strings.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +111,7 @@
   </component>
   <component name="GenerateSignedApkSettings">
     <option name="EXPORT_PRIVATE_KEY" value="false" />
-    <option name="KEY_STORE_PATH" value="C:\Users\cnzrv\Downloads\keyStore.jks" />
+    <option name="KEY_STORE_PATH" value="$PROJECT_DIR$/../../../AssetsBTSWallpaper/keyStore" />
     <option name="KEY_ALIAS" value="key0" />
     <option name="REMEMBER_PASSWORDS" value="true" />
   </component>
@@ -50,9 +124,9 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ApkExportedModule" value="app" />
-    <property name="BundleExportedModule" value="app" />
-    <property name="ExportApk.ApkPath" value="C:\Users\cnzrv\Downloads\My Wallpaper V2\My Wallpaper V2\app" />
+    <property name="ApkExportedModule" value="MyWallpaper.app" />
+    <property name="BundleExportedModule" value="MyWallpaper.app" />
+    <property name="ExportApk.ApkPath" value="$PROJECT_DIR$/../../../AssetsBTSWallpaper" />
     <property name="ExportApk.BuildVariants" value="release" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -60,6 +134,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/res/drawable" />
       <recent name="C:\Users\cnzrv\Downloads\My Wallpaper V2\My Wallpaper V2\app\src\main\res\drawable" />
     </key>
   </component>
@@ -143,10 +218,11 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603632911073">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="518" y="234" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603699104895">
+      <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.-581.1200.1880@0.0.1920.1040" timestamp="1603632911073" />
+    <state x="518" y="234" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.823@0.23.1440.823" timestamp="1603699104895" />
     <state x="739" y="172" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1603531275094">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -155,26 +231,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.-581.1200.1880@0.0.1920.1040" timestamp="1603536263461" />
-    <state width="1396" height="213" key="GridCell.Tab.0.bottom" timestamp="1603684884315">
+    <state width="1396" height="213" key="GridCell.Tab.0.bottom" timestamp="1603701311458">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state width="1877" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-581.1200.1880@0.0.1920.1040" timestamp="1603537509610" />
-    <state width="1396" height="213" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1603684884315" />
-    <state width="1396" height="213" key="GridCell.Tab.0.center" timestamp="1603684884314">
+    <state width="1396" height="213" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1603701311458" />
+    <state width="1396" height="213" key="GridCell.Tab.0.center" timestamp="1603701311457">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state width="1877" height="276" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-581.1200.1880@0.0.1920.1040" timestamp="1603537509609" />
-    <state width="1396" height="213" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1603684884314" />
-    <state width="1396" height="213" key="GridCell.Tab.0.left" timestamp="1603684884313">
+    <state width="1396" height="213" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1603701311457" />
+    <state width="1396" height="213" key="GridCell.Tab.0.left" timestamp="1603701311455">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state width="1877" height="276" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-581.1200.1880@0.0.1920.1040" timestamp="1603537509609" />
-    <state width="1396" height="213" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1603684884313" />
-    <state width="1396" height="213" key="GridCell.Tab.0.right" timestamp="1603684884314">
+    <state width="1396" height="213" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1603701311455" />
+    <state width="1396" height="213" key="GridCell.Tab.0.right" timestamp="1603701311457">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state width="1877" height="276" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-581.1200.1880@0.0.1920.1040" timestamp="1603537509610" />
-    <state width="1396" height="213" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1603684884314" />
+    <state width="1396" height="213" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1603701311457" />
     <state x="100" y="100" width="1720" height="840" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1603523102333">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
