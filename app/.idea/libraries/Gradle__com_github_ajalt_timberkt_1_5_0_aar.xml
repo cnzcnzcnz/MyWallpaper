@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.ajalt:timberkt:1.5.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/74380546d44277c7aca2753017f5eab4/jetified-timberkt-1.5.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/74380546d44277c7aca2753017f5eab4/jetified-timberkt-1.5.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/74380546d44277c7aca2753017f5eab4/jetified-timberkt-1.5.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ajalt/timberkt/1.5.0/ac054e16baf5b0b013705d66bd6920eda7c9e907/timberkt-1.5.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ajalt/timberkt/1.5.0/333631f56a689ce29f0fb431dbf82e3dc4006fd4/timberkt-1.5.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

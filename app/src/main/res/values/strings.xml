@@ -1,0 +1,41 @@
+<resources>
+
+    <!-- silahkan diubah -->
+    <string name="app_name">Quotes Bijak Kehidupan</string>
+    <string name="admob_app_id">ca-app-pub-3559020312196470~2826292591</string>
+    <string name="share_message">Banyak kata - kata bijak kehidupan disini</string>
+    <string name="more_app_link">https://play.google.com/store/apps/developer?id=Abstraksi+Developer</string>
+    <string name="disclaimer">This application is made by fans, and it is unofficial. The content in this app is not affiliated with, endorsed, sponsored, or specifically approved by any company. This app is mainly for entertainment and for all fans to enjoy these wallpapers. If we have violated any copyright by use of any images included in this app, plase get in touch with us at email@gmail.com and we shall promptly remove it. Thank you!</string>
+
+    <!-- boleh diubah boleh tidak, saran biarkan saja -->
+    <string name="menu_home">Home</string>
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+    <string name="ad_attribution">Ad</string>
+    <string name="ads_button">Open</string>
+    <string name="rationale_storage">This app needs access to your storage so you can save the image.</string>
+    <string name="set_wallpaper_success">Wallpaper set successfully.</string>
+    <string name="set_wallpaper_title">Set Wallpaper</string>
+    <string name="share_photo">Share Photo</string>
+    <string name="please_wait">Please Wait..</string>
+    <string name="setting_wallpaper">Setting Wallpaper...</string>
+    <string name="saving_photo">Saving Photo..</string>
+    <string name="app_notification_channel_id">app-notif-channel-id</string>
+    <string name="app_notification_channel_name">appnotif_channel_name</string>
+    <string name="update_notification_channel_id">update-notif-channel-id</string>
+    <string name="update_notification_channel_name">update-notif_channel_name</string>
+    <string name="update_photo">Updating Photo...</string>
+    <string name="update_photo_title">@string/app_name</string>
+    <string name="no_internet">No internet connection!</string>
+    <string name="rateButtonText">Give Rate !!</string>
+    <string name="pleaserate">Please Give Rate 5 Stars Or You Can Exit This App</string>
+    <string name="exitButtonText">Exit</string>
+    <string name="set_wallpaper">Set Wallpaper</string>
+    <string name="home_screen_text">Home screen</string>
+    <string name="lock_screen_text">Lock screen</string>
+    <string name="home_lock_screen"><![CDATA[Home & Lock Screen]]></string>
+    <string name="save_favorite_message">Save to favorites successfully</string>
+    <string name="delete_favorite_message">Delete from favorites successfully</string>
+    <string name="no_photo_in_favorites">No photo in favorites.</string>
+
+</resources>

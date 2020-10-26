@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset xmlns:android="http://schemas.android.com/apk/res/android"
+    android:inset="@dimen/_45sdp">
+    <layer-list>
+        <item android:drawable="@drawable/icon_thumb_2" />
+    </layer-list>
+</inset>

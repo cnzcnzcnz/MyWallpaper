@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/custom_dialog_layout_design_user_input"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingBottom="10dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:gravity="center_vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/dialog_padding"
+            android:layout_marginLeft="@dimen/dialog_padding"
+            android:fontFamily="@font/avenir_heavy"
+            android:text="@string/set_wallpaper_title"
+            android:textColor="@color/dialog_text_color"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/lyt_option"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/btnSetHomeScreen"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dialog_height"
+            android:paddingStart="@dimen/dialog_padding"
+            android:background="?attr/selectableItemBackground"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <androidx.appcompat.widget.AppCompatImageView
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:src="@drawable/ic_set_home_screen"
+                app:tint="@color/dialog_icon_color" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/dialog_padding"
+                android:layout_marginLeft="@dimen/dialog_padding"
+                android:fontFamily="@font/avenir_medium"
+                android:text="@string/home_screen_text"
+                android:textColor="@color/dialog_text_color"
+                android:textSize="16sp" />
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:id="@+id/btnSetLockScreen"
+            android:background="?attr/selectableItemBackground"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dialog_height"
+            android:paddingStart="@dimen/dialog_padding"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <androidx.appcompat.widget.AppCompatImageView
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:src="@drawable/ic_set_lock_screen"
+                app:tint="@color/dialog_icon_color" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/dialog_padding"
+                android:layout_marginLeft="@dimen/dialog_padding"
+                android:fontFamily="@font/avenir_medium"
+                android:text="@string/lock_screen_text"
+                android:textColor="@color/dialog_text_color"
+                android:textSize="16sp" />
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:id="@+id/btnBoth"
+            android:background="?attr/selectableItemBackground"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dialog_height"
+            android:paddingStart="@dimen/dialog_padding"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <androidx.appcompat.widget.AppCompatImageView
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:src="@drawable/ic_set_both"
+                app:tint="@color/dialog_icon_color" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/dialog_padding"
+                android:layout_marginLeft="@dimen/dialog_padding"
+                android:fontFamily="@font/avenir_medium"
+                android:text="@string/home_lock_screen"
+                android:textColor="@color/dialog_text_color"
+                android:textSize="16sp" />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+</LinearLayout>
