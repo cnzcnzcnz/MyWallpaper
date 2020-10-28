@@ -10,14 +10,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30c3a04c-0443-4177-9c7a-0d1ae6fe2ccc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/katakatamutiara2020/service/MyFirebaseMessagingService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/katakatamutiara2020/service/MyFirebaseMessagingService.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Redmi_Note_4]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -37,7 +40,7 @@
   </component>
   <component name="GenerateSignedApkSettings">
     <option name="EXPORT_PRIVATE_KEY" value="false" />
-    <option name="KEY_STORE_PATH" value="C:\Users\cnzrv\Downloads\keyStore.jks" />
+    <option name="KEY_STORE_PATH" value="$PROJECT_DIR$/../../../AssetsKatakataMutiara/keyStore" />
     <option name="KEY_ALIAS" value="key0" />
     <option name="REMEMBER_PASSWORDS" value="true" />
   </component>
@@ -51,8 +54,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ApkExportedModule" value="app" />
-    <property name="BundleExportedModule" value="app" />
-    <property name="ExportApk.ApkPath" value="C:\Users\cnzrv\Downloads\My Wallpaper V2\My Wallpaper V2\app" />
+    <property name="BundleExportedModule" value="MyWallpaper.app" />
+    <property name="ExportApk.ApkPath" value="$PROJECT_DIR$/../../../AssetsKatakataMutiara" />
     <property name="ExportApk.BuildVariants" value="release" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -151,30 +154,58 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="739" y="172" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.1920.1040/1920.-581.1200.1880@0.0.1920.1040" timestamp="1603531275094" />
+    <state x="100" y="100" width="1240" height="700" key="AVDManager" timestamp="1603792200671">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="AVDManager/0.23.1440.823@0.23.1440.823" timestamp="1603792200671" />
+    <state width="459" height="466" key="DebuggerActiveHint" timestamp="1603785152385">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="459" height="466" key="DebuggerActiveHint/0.0.1440.900@0.0.1440.900" timestamp="1603785152385" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1603536263461">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.-581.1200.1880@0.0.1920.1040" timestamp="1603536263461" />
-    <state width="1396" height="213" key="GridCell.Tab.0.bottom" timestamp="1603684884315">
-      <screen x="0" y="23" width="1440" height="823" />
+    <state width="1396" height="245" key="GridCell.Tab.0.bottom" timestamp="1603792852934">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1396" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1603792852934" />
     <state width="1877" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-581.1200.1880@0.0.1920.1040" timestamp="1603537509610" />
-    <state width="1396" height="213" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1603684884315" />
-    <state width="1396" height="213" key="GridCell.Tab.0.center" timestamp="1603684884314">
-      <screen x="0" y="23" width="1440" height="823" />
+    <state width="1396" height="245" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1603792205485" />
+    <state width="1396" height="245" key="GridCell.Tab.0.center" timestamp="1603792852933">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1396" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1603792852933" />
     <state width="1877" height="276" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-581.1200.1880@0.0.1920.1040" timestamp="1603537509609" />
-    <state width="1396" height="213" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1603684884314" />
-    <state width="1396" height="213" key="GridCell.Tab.0.left" timestamp="1603684884313">
-      <screen x="0" y="23" width="1440" height="823" />
+    <state width="1396" height="245" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1603792205481" />
+    <state width="1396" height="245" key="GridCell.Tab.0.left" timestamp="1603792852932">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1396" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1603792852932" />
     <state width="1877" height="276" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-581.1200.1880@0.0.1920.1040" timestamp="1603537509609" />
-    <state width="1396" height="213" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1603684884313" />
-    <state width="1396" height="213" key="GridCell.Tab.0.right" timestamp="1603684884314">
-      <screen x="0" y="23" width="1440" height="823" />
+    <state width="1396" height="245" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1603792205480" />
+    <state width="1396" height="245" key="GridCell.Tab.0.right" timestamp="1603792852933">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1396" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1603792852933" />
     <state width="1877" height="276" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-581.1200.1880@0.0.1920.1040" timestamp="1603537509610" />
-    <state width="1396" height="213" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1603684884314" />
+    <state width="1396" height="245" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1603792205484" />
+    <state width="1396" height="245" key="GridCell.Tab.1.bottom" timestamp="1603789517336">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="245" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1603789517336" />
+    <state width="1396" height="245" key="GridCell.Tab.1.center" timestamp="1603789517335">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="245" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1603789517335" />
+    <state width="1396" height="245" key="GridCell.Tab.1.left" timestamp="1603789517335">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="245" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1603789517335" />
+    <state width="1396" height="245" key="GridCell.Tab.1.right" timestamp="1603789517335">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="245" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1603789517335" />
     <state x="100" y="100" width="1720" height="840" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1603523102333">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -183,10 +214,82 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="296" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.-581.1200.1880@0.0.1920.1040" timestamp="1603632649681" />
-    <state x="855" y="138" width="585" height="637" key="find.popup" timestamp="1603683048761">
-      <screen x="0" y="23" width="1440" height="823" />
+    <state x="797" y="126" width="643" height="697" key="find.popup" timestamp="1603783360009">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="797" y="126" width="643" height="697" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1603783360009" />
     <state x="1167" y="145" width="607" height="804" key="find.popup/0.0.1920.1040/1920.-581.1200.1880@0.0.1920.1040" timestamp="1603632752902" />
     <state x="855" y="138" width="585" height="637" key="find.popup/0.23.1440.823@0.23.1440.823" timestamp="1603683048761" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/abstraksi/katakatamutiara2020/service/UpdateDataService.kt</url>
+          <line>69</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/abstraksi/katakatamutiara2020/service/UpdateDataService.kt</url>
+          <line>70</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/abstraksi/katakatamutiara2020/service/UpdateDataService.kt</url>
+          <line>71</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/abstraksi/katakatamutiara2020/service/MyFirebaseMessagingService.kt</url>
+          <line>24</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/abstraksi/katakatamutiara2020/service/MyFirebaseMessagingService.kt</url>
+          <line>25</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/abstraksi/katakatamutiara2020/service/MyFirebaseMessagingService.kt</url>
+          <line>27</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/abstraksi/katakatamutiara2020/service/MyFirebaseMessagingService.kt</url>
+          <line>29</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/abstraksi/katakatamutiara2020/service/MyFirebaseMessagingService.kt</url>
+          <line>28</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/abstraksi/katakatamutiara2020/service/MyFirebaseMessagingService.kt</url>
+          <line>30</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/abstraksi/katakatamutiara2020/service/MyFirebaseMessagingService.kt</url>
+          <line>51</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/abstraksi/katakatamutiara2020/service/MyFirebaseMessagingService.kt</url>
+          <line>52</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/abstraksi/katakatamutiara2020/service/MyFirebaseMessagingService.kt</url>
+          <line>53</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/abstraksi/katakatamutiara2020/service/MyFirebaseMessagingService.kt</url>
+          <line>55</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

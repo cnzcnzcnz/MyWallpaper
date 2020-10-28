@@ -12,8 +12,8 @@ android {
         applicationId "com.abstraksi.katakatamutiara2020"
         minSdkVersion 19
         targetSdkVersion 30
-        versionCode 10
-        versionName "2.0.1"
+        versionCode 11
+        versionName "2.0.2"
         buildConfigField "String", "BASE_URL", "\"https://api.pinterest.com/v3/\""
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         multiDexEnabled true
