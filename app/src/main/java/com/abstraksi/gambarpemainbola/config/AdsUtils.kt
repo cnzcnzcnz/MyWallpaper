@@ -12,11 +12,11 @@ object AdsUtils {
     var ADMOB_PUB_ID = "pub-3559020312196470"
 
     // ADMOB APP ID (ubah di res -> values -> strings juga)
-    var ADMOB_APP_ID = "ca-app-pub-3559020312196470~8756441979"
+    var ADMOB_APP_ID = "ca-app-pub-2687920864105031~2928690759"
 
     // ADMOB IKLAN ID
-    var ADMOB_BANNER_ID = "ca-app-pub-3559020312196470/4187653337"
-    var ADMOB_INTERSTITIAL_ID = "ca-app-pub-3559020312196470/3476195132"
+    var ADMOB_BANNER_ID = "ca-app-pub-2687920864105031/6676364074"
+    var ADMOB_INTERSTITIAL_ID = "ca-app-pub-2687920864105031/2350106252"
     var ADMOB_NATIVE_ID = "ca-app-pub-3559020312196470/3383599280"
 
     // ADMOB FOR TEST
@@ -24,9 +24,9 @@ object AdsUtils {
 //    const val INTERSTITIAL_TEST_AD = "ca-app-pub-3940256099942544/1033173712"
 //    const val NATIVE_TEST_AD = "ca-app-pub-3940256099942544/2247696110"
 
-    const val BANNER_TEST_AD = "ca-app-pub-3559020312196470/4187653337"
-    const val INTERSTITIAL_TEST_AD = "ca-app-pub-3559020312196470/3476195132"
-    const val NATIVE_TEST_AD = "ca-app-pub-3559020312196470/3383599280"
+    const val BANNER_TEST_AD = "ca-app-pub-2687920864105031/6676364074"
+    const val INTERSTITIAL_TEST_AD = "ca-app-pub-2687920864105031/2350106252"
+    const val NATIVE_TEST_AD = "ca-app-pub-2687920864105031/2313790694"
 
     // interval interstitial tiap klik wallpaper, logo, save, fullscreen dll
     var INTERSTITIAL_INTERVAL = 6
