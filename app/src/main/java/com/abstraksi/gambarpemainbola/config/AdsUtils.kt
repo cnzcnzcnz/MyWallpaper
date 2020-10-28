@@ -9,7 +9,7 @@ object AdsUtils {
     // ADMOB PUBLISHER ID
 //    var ADMOB_PUB_ID = "pub-2645249444311791"
 //    pub-3559020312196470
-    var ADMOB_PUB_ID = "pub-3559020312196470"
+    var ADMOB_PUB_ID = "pub-2687920864105031"
 
     // ADMOB APP ID (ubah di res -> values -> strings juga)
     var ADMOB_APP_ID = "ca-app-pub-2687920864105031~2928690759"
