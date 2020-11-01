@@ -8,9 +8,75 @@
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:258009727548:android:803d86f46ceda9e4c4b939",
+        "android_client_info": {
+          "package_name": "com.abstraksi.btswallpaperhd2020"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258009727548-7fjb6nkl5vvlk6khtpajkv8sv1r1t7pt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIF0w1aSgD1PCDR4sPX5MaXXVKpb4bLSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258009727548-7fjb6nkl5vvlk6khtpajkv8sv1r1t7pt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:258009727548:android:2d30a27cc4a88811c4b939",
         "android_client_info": {
           "package_name": "com.abstraksi.gambarpemainbola"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258009727548-g3kp4rkbts1lsdqv834qo99o6qfskve9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abstraksi.gambarpemainbola",
+            "certificate_hash": "0deb5c0dcf743c045e82aac9a6e23b36f0de94a9"
+          }
+        },
+        {
+          "client_id": "258009727548-7fjb6nkl5vvlk6khtpajkv8sv1r1t7pt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIF0w1aSgD1PCDR4sPX5MaXXVKpb4bLSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258009727548-7fjb6nkl5vvlk6khtpajkv8sv1r1t7pt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258009727548:android:83d9a12fbb784b2ac4b939",
+        "android_client_info": {
+          "package_name": "com.abstraksi.iphonewallpaper"
         }
       },
       "oauth_client": [
@@ -43,6 +109,14 @@
         }
       },
       "oauth_client": [
+        {
+          "client_id": "258009727548-df9783pj7r08avkiumpajmejl40g6pd0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abstraksi.katakatamutiara2020",
+            "certificate_hash": "89f4851ac858271004fb6d01dca8a1bccfe17eda"
+          }
+        },
         {
           "client_id": "258009727548-7fjb6nkl5vvlk6khtpajkv8sv1r1t7pt.apps.googleusercontent.com",
           "client_type": 3
