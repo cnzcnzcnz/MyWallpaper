@@ -49,7 +49,7 @@ class MyFirebaseMessagingService : FirebaseMessagingService() {
     ) {
 
         val intent: Intent
-        if (moreApp.isNotEmpty()) {
+        if (moreApp != "null") {
             intent = Intent(Intent.ACTION_VIEW)
             intent.data = Uri.parse(moreApp)
         } else {

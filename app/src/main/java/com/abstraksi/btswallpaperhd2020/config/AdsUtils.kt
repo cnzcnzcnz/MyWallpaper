@@ -1,5 +1,7 @@
 package com.abstraksi.btswallpaperhd2020.config
 
+import com.abstraksi.btswallpaperhd2020.R
+
 object AdsUtils {
 
     // Jangan diubah
@@ -12,21 +14,21 @@ object AdsUtils {
     var ADMOB_PUB_ID = "pub-3559020312196470"
 
     // ADMOB APP ID (ubah di res -> values -> strings juga)
-    var ADMOB_APP_ID = "ca-app-pub-3559020312196470~6878284875"
+    var ADMOB_APP_ID = R.string.admob_app_id.toString()
 
     // ADMOB IKLAN ID
-    var ADMOB_BANNER_ID = "ca-app-pub-3559020312196470/5493051016"
-    var ADMOB_INTERSTITIAL_ID = "ca-app-pub-3559020312196470/2643031551"
-    var ADMOB_NATIVE_ID = "ca-app-pub-3559020312196470/4694479827"
+    var ADMOB_BANNER_ID = "ca-app-pub-2687920864105031/5928482511"
+    var ADMOB_INTERSTITIAL_ID = "ca-app-pub-2687920864105031/4699656167"
+    var ADMOB_NATIVE_ID = "ca-app-pub-2687920864105031/3302319179"
 
     // ADMOB FOR TEST
 //    const val BANNER_TEST_AD = "ca-app-pub-3940256099942544/6300978111"
 //    const val INTERSTITIAL_TEST_AD = "ca-app-pub-3940256099942544/1033173712"
 //    const val NATIVE_TEST_AD = "ca-app-pub-3940256099942544/2247696110"
 
-    const val BANNER_TEST_AD = "ca-app-pub-3559020312196470/5493051016"
-    const val INTERSTITIAL_TEST_AD = "ca-app-pub-3559020312196470/2643031551"
-    const val NATIVE_TEST_AD = "ca-app-pub-3559020312196470/4694479827"
+    const val BANNER_TEST_AD = "ca-app-pub-2687920864105031/5928482511"
+    const val INTERSTITIAL_TEST_AD = "ca-app-pub-2687920864105031/4699656167"
+    const val NATIVE_TEST_AD = "ca-app-pub-2687920864105031/3302319179"
 
     // interval interstitial tiap klik wallpaper, logo, save, fullscreen dll
     var INTERSTITIAL_INTERVAL = 4
