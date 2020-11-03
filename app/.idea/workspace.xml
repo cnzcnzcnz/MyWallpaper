@@ -12,7 +12,6 @@
     <list default="true" id="30c3a04c-0443-4177-9c7a-0d1ae6fe2ccc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +38,7 @@
   </component>
   <component name="GenerateSignedApkSettings">
     <option name="EXPORT_PRIVATE_KEY" value="false" />
-    <option name="KEY_STORE_PATH" value="$PROJECT_DIR$/../../../AssetsKatakataMutiara/keyStore" />
+    <option name="KEY_STORE_PATH" value="$PROJECT_DIR$/../../Assets/Image/AssetsKatakataMutiara/keyStore" />
     <option name="KEY_ALIAS" value="key0" />
     <option name="REMEMBER_PASSWORDS" value="true" />
   </component>
@@ -54,7 +53,7 @@
   <component name="PropertiesComponent">
     <property name="ApkExportedModule" value="app" />
     <property name="BundleExportedModule" value="MyWallpaper.app" />
-    <property name="ExportApk.ApkPath" value="$PROJECT_DIR$/../../../AssetsKatakataMutiara" />
+    <property name="ExportApk.ApkPath" value="$PROJECT_DIR$/../../Assets/Image/AssetsKatakataMutiara/release" />
     <property name="ExportApk.BuildVariants" value="release" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -165,30 +164,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.-581.1200.1880@0.0.1920.1040" timestamp="1603536263461" />
-    <state width="1396" height="245" key="GridCell.Tab.0.bottom" timestamp="1603792852934">
+    <state width="1396" height="245" key="GridCell.Tab.0.bottom" timestamp="1604386400137">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1396" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1603792852934" />
+    <state width="1396" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1604386400137" />
     <state width="1877" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-581.1200.1880@0.0.1920.1040" timestamp="1603537509610" />
-    <state width="1396" height="245" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1603792205485" />
-    <state width="1396" height="245" key="GridCell.Tab.0.center" timestamp="1603792852933">
+    <state width="1396" height="245" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1604385929268" />
+    <state width="1396" height="245" key="GridCell.Tab.0.center" timestamp="1604386400136">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1396" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1603792852933" />
+    <state width="1396" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1604386400136" />
     <state width="1877" height="276" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-581.1200.1880@0.0.1920.1040" timestamp="1603537509609" />
-    <state width="1396" height="245" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1603792205481" />
-    <state width="1396" height="245" key="GridCell.Tab.0.left" timestamp="1603792852932">
+    <state width="1396" height="245" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1604385929266" />
+    <state width="1396" height="245" key="GridCell.Tab.0.left" timestamp="1604386400136">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1396" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1603792852932" />
+    <state width="1396" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1604386400136" />
     <state width="1877" height="276" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-581.1200.1880@0.0.1920.1040" timestamp="1603537509609" />
-    <state width="1396" height="245" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1603792205480" />
-    <state width="1396" height="245" key="GridCell.Tab.0.right" timestamp="1603792852933">
+    <state width="1396" height="245" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1604385929265" />
+    <state width="1396" height="245" key="GridCell.Tab.0.right" timestamp="1604386400137">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1396" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1603792852933" />
+    <state width="1396" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1604386400137" />
     <state width="1877" height="276" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-581.1200.1880@0.0.1920.1040" timestamp="1603537509610" />
-    <state width="1396" height="245" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1603792205484" />
+    <state width="1396" height="245" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1604385929267" />
     <state width="1396" height="245" key="GridCell.Tab.1.bottom" timestamp="1603789517336">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
