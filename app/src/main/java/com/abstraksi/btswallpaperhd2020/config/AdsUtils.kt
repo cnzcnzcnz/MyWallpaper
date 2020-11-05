@@ -11,24 +11,24 @@ object AdsUtils {
     // ADMOB PUBLISHER ID
 //    var ADMOB_PUB_ID = "pub-2645249444311791"
 //    pub-3559020312196470
-    var ADMOB_PUB_ID = "pub-3559020312196470"
+    var ADMOB_PUB_ID = "pub-2585941790923895"
 
     // ADMOB APP ID (ubah di res -> values -> strings juga)
     var ADMOB_APP_ID = R.string.admob_app_id.toString()
 
     // ADMOB IKLAN ID
-    var ADMOB_BANNER_ID = "ca-app-pub-2687920864105031/5928482511"
-    var ADMOB_INTERSTITIAL_ID = "ca-app-pub-2687920864105031/4699656167"
-    var ADMOB_NATIVE_ID = "ca-app-pub-2687920864105031/3302319179"
+    var ADMOB_BANNER_ID = "ca-app-pub-2585941790923895/4423559653"
+    var ADMOB_INTERSTITIAL_ID = "ca-app-pub-2585941790923895/5156195005"
+    var ADMOB_NATIVE_ID = "ca-app-pub-2585941790923895/2314409247"
 
     // ADMOB FOR TEST
 //    const val BANNER_TEST_AD = "ca-app-pub-3940256099942544/6300978111"
 //    const val INTERSTITIAL_TEST_AD = "ca-app-pub-3940256099942544/1033173712"
 //    const val NATIVE_TEST_AD = "ca-app-pub-3940256099942544/2247696110"
 
-    const val BANNER_TEST_AD = "ca-app-pub-2687920864105031/5928482511"
-    const val INTERSTITIAL_TEST_AD = "ca-app-pub-2687920864105031/4699656167"
-    const val NATIVE_TEST_AD = "ca-app-pub-2687920864105031/3302319179"
+    const val BANNER_TEST_AD = "ca-app-pub-2585941790923895/4423559653"
+    const val INTERSTITIAL_TEST_AD = "ca-app-pub-2585941790923895/5156195005"
+    const val NATIVE_TEST_AD = "ca-app-pub-2585941790923895/2314409247"
 
     // interval interstitial tiap klik wallpaper, logo, save, fullscreen dll
     var INTERSTITIAL_INTERVAL = 4
