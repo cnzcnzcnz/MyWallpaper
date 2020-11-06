@@ -14,7 +14,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/gambarpemainbola/config/AdsUtils.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/gambarpemainbola/config/AdsUtils.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values/strings.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +29,9 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
         <projects_view>
           <tree_state>
             <expand />
@@ -41,7 +43,7 @@
   </component>
   <component name="GenerateSignedApkSettings">
     <option name="EXPORT_PRIVATE_KEY" value="false" />
-    <option name="KEY_STORE_PATH" value="$PROJECT_DIR$/../../AssetsGambarPemainBola/keyStore.jks" />
+    <option name="KEY_STORE_PATH" value="$PROJECT_DIR$/../../Assets/Image/AssetsGambarPemainBola/keyStore.jks" />
     <option name="KEY_ALIAS" value="key0" />
     <option name="REMEMBER_PASSWORDS" value="true" />
   </component>
@@ -56,12 +58,25 @@
   <component name="PropertiesComponent">
     <property name="ApkExportedModule" value="MyWallpaper.app" />
     <property name="BundleExportedModule" value="MyWallpaper.app" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Redmi_Note_4" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-11-06T02:56:24.699Z" />
     <property name="ExportApk.ApkPath" value="$PROJECT_DIR$/release" />
     <property name="ExportApk.BuildVariants" value="release" />
+    <property name="ExportApk.SignV1" value="true" />
+    <property name="ExportApk.SignV2" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Build Variants" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="PsdUISettings">
+    <option name="MODULE_TAB" value="Default Config" />
+    <option name="BUILD_VARIANTS_TAB" value="Build Types" />
+    <option name="LAST_EDITED_SIGNING_CONFIG" value="release" />
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -149,6 +164,14 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="243" y="193" key="#PSD" timestamp="1604631364190">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="243" y="193" key="#PSD/0.23.1440.823@0.23.1440.823" timestamp="1604631364190" />
+    <state x="184" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604631224063">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="184" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.823@0.23.1440.823" timestamp="1604631224063" />
     <state x="518" y="234" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603677933125">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
@@ -162,30 +185,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.-581.1200.1880@0.0.1920.1040" timestamp="1603536263461" />
-    <state width="1396" height="212" key="GridCell.Tab.0.bottom" timestamp="1604559696152">
+    <state width="1396" height="212" key="GridCell.Tab.0.bottom" timestamp="1604632399057">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state width="1396" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1604237359144" />
     <state width="1877" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-581.1200.1880@0.0.1920.1040" timestamp="1603537509610" />
-    <state width="1396" height="212" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1604559696152" />
-    <state width="1396" height="212" key="GridCell.Tab.0.center" timestamp="1604559696151">
+    <state width="1396" height="212" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1604632399057" />
+    <state width="1396" height="212" key="GridCell.Tab.0.center" timestamp="1604632399054">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state width="1396" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1604237359142" />
     <state width="1877" height="276" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-581.1200.1880@0.0.1920.1040" timestamp="1603537509609" />
-    <state width="1396" height="212" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1604559696151" />
-    <state width="1396" height="212" key="GridCell.Tab.0.left" timestamp="1604559696151">
+    <state width="1396" height="212" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1604632399054" />
+    <state width="1396" height="212" key="GridCell.Tab.0.left" timestamp="1604632399054">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state width="1396" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1604237359141" />
     <state width="1877" height="276" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-581.1200.1880@0.0.1920.1040" timestamp="1603537509609" />
-    <state width="1396" height="212" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1604559696151" />
-    <state width="1396" height="212" key="GridCell.Tab.0.right" timestamp="1604559696151">
+    <state width="1396" height="212" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1604632399054" />
+    <state width="1396" height="212" key="GridCell.Tab.0.right" timestamp="1604632399055">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state width="1396" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1604237359142" />
     <state width="1877" height="276" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-581.1200.1880@0.0.1920.1040" timestamp="1603537509610" />
-    <state width="1396" height="212" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1604559696151" />
+    <state width="1396" height="212" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1604632399055" />
     <state width="1396" height="245" key="GridCell.Tab.1.bottom" timestamp="1603679894613">
       <screen x="0" y="23" width="1440" height="823" />
     </state>

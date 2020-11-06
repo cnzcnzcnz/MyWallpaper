@@ -7,6 +7,20 @@ apply plugin: 'com.google.gms.google-services'
 apply plugin: 'com.google.firebase.crashlytics'
 
 android {
+    signingConfigs {
+        debug {
+            storeFile file('/Users/chandrarizky/Documents/PersonalProject/Assets/Image/AssetsGambarPemainBola/keyStore.jks')
+            storePassword 'TtbzfVt4'
+            keyAlias 'key0'
+            keyPassword 'TtbzfVt4'
+        }
+        release {
+            storeFile file('/Users/chandrarizky/Documents/PersonalProject/Assets/Image/AssetsGambarPemainBola/keyStore.jks')
+            storePassword 'TtbzfVt4'
+            keyAlias 'key0'
+            keyPassword 'TtbzfVt4'
+        }
+    }
     compileSdkVersion 30
     defaultConfig {
         applicationId "com.abstraksi.gambarpemainbola"
@@ -18,11 +32,16 @@ android {
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         multiDexEnabled true
         vectorDrawables.useSupportLibrary = true
+        signingConfig signingConfigs.debug
     }
     buildTypes {
         release {
             minifyEnabled true
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.release
+        }
+        debug {
+            signingConfig signingConfigs.debug
         }
     }
 
