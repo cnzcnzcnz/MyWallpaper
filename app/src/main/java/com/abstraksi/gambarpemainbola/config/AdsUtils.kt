@@ -14,7 +14,7 @@ object AdsUtils {
     var ADMOB_PUB_ID = "pub-2585941790923895"
 
     // ADMOB APP ID (ubah di res -> values -> strings juga)
-    var ADMOB_APP_ID = R.string.admob_app_id.toString()
+    var ADMOB_APP_ID = "ca-app-pub-2585941790923895~9331738577"
 
     // ADMOB IKLAN ID
     var ADMOB_BANNER_ID = "ca-app-pub-2585941790923895/7362150975"
