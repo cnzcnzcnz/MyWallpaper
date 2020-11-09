@@ -4,7 +4,7 @@ package com.abstraksi.btswallpaperhd2020.config
 var USERNAME = "cnzrvz"
 
 // base name album (board)
-var ALBUM = listOf("bts")
+var ALBUM = listOf("bts","jimin","junghoseok","jungkook","kimtaehyung","kimnamjoon","jin","suga")
 
 // JANGAN DIUBAH - URGENT !
 var JUMLAH_PHOTO_PER_ALBUM = 50
