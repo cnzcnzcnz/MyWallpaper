@@ -88,7 +88,7 @@
 }
 
 # wajib ubah package name (id.yourcompanyname.mywallpaper) sesuai dgn package name aplikasi
--keep class com.abstraksi.btswallpaperhd2020.data.remote.** { *; }
+-keep class com.abstraksi.kimetsunoyaiba.data.remote.** { *; }
 
 #android svg
 -dontwarn com.caverock.androidsvg.**
