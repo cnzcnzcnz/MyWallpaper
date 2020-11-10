@@ -9,7 +9,7 @@ apply plugin: 'com.google.firebase.crashlytics'
 android {
     compileSdkVersion 30
     defaultConfig {
-        applicationId "com.abstraksi.katakatamutiara2020"
+        applicationId "com.abstraksi.attackontitan"
         minSdkVersion 19
         targetSdkVersion 30
         versionCode 15

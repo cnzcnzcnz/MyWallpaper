@@ -8,9 +8,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:258009727548:android:8933ea2539bbda34c4b939",
+        "mobilesdk_app_id": "1:258009727548:android:459686939838eab2c4b939",
         "android_client_info": {
-          "package_name": "com.abstraksi.katakatamutiara2020"
+          "package_name": "com.abstraksi.attackontitan"
         }
       },
       "oauth_client": [
@@ -34,6 +34,158 @@
           ]
         }
       }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258009727548:android:803d86f46ceda9e4c4b939",
+        "android_client_info": {
+          "package_name": "com.abstraksi.btswallpaperhd2020"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258009727548-l5ffu4chfskk70t2r0j8oedui3rhc2u4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abstraksi.btswallpaperhd2020",
+            "certificate_hash": "14edd56e0d2a4a4af90f03acbf815f1ee2d9349e"
+          }
+        },
+        {
+          "client_id": "258009727548-7fjb6nkl5vvlk6khtpajkv8sv1r1t7pt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIF0w1aSgD1PCDR4sPX5MaXXVKpb4bLSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258009727548-7fjb6nkl5vvlk6khtpajkv8sv1r1t7pt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-2687920864105031~7325819500"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258009727548:android:2d30a27cc4a88811c4b939",
+        "android_client_info": {
+          "package_name": "com.abstraksi.gambarpemainbola"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258009727548-g3kp4rkbts1lsdqv834qo99o6qfskve9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abstraksi.gambarpemainbola",
+            "certificate_hash": "0deb5c0dcf743c045e82aac9a6e23b36f0de94a9"
+          }
+        },
+        {
+          "client_id": "258009727548-7fjb6nkl5vvlk6khtpajkv8sv1r1t7pt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIF0w1aSgD1PCDR4sPX5MaXXVKpb4bLSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258009727548-7fjb6nkl5vvlk6khtpajkv8sv1r1t7pt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-2687920864105031~2928690759"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258009727548:android:83d9a12fbb784b2ac4b939",
+        "android_client_info": {
+          "package_name": "com.abstraksi.iphonewallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258009727548-kt0bfcinoapfkg1n1jr816hml3kbs6eu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abstraksi.iphonewallpaper",
+            "certificate_hash": "2337c0b065e57ac85ba26c96ecc7501ad19f482b"
+          }
+        },
+        {
+          "client_id": "258009727548-7fjb6nkl5vvlk6khtpajkv8sv1r1t7pt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIF0w1aSgD1PCDR4sPX5MaXXVKpb4bLSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258009727548-7fjb6nkl5vvlk6khtpajkv8sv1r1t7pt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-2687920864105031~2855349198"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258009727548:android:8933ea2539bbda34c4b939",
+        "android_client_info": {
+          "package_name": "com.abstraksi.katakatamutiara2020"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258009727548-df9783pj7r08avkiumpajmejl40g6pd0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abstraksi.katakatamutiara2020",
+            "certificate_hash": "89f4851ac858271004fb6d01dca8a1bccfe17eda"
+          }
+        },
+        {
+          "client_id": "258009727548-7fjb6nkl5vvlk6khtpajkv8sv1r1t7pt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIF0w1aSgD1PCDR4sPX5MaXXVKpb4bLSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258009727548-7fjb6nkl5vvlk6khtpajkv8sv1r1t7pt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-2687920864105031~8454326081"
     }
   ],
   "configuration_version": "1"
