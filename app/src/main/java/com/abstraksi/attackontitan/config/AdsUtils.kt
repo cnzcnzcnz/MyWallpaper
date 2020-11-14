@@ -26,8 +26,8 @@ object AdsUtils {
 //    const val INTERSTITIAL_TEST_AD = "ca-app-pub-3940256099942544/1033173712"
 //    const val NATIVE_TEST_AD = "ca-app-pub-3940256099942544/2247696110"
 
-    const val BANNER_TEST_AD = "ca-app-pub-2585941790923895/5700271864"
-    const val INTERSTITIAL_TEST_AD = "ca-app-pub-2585941790923895/4387190195"
+    const val BANNER_TEST_AD = "ca-app-pub-2585941790923895/6339222658"
+    const val INTERSTITIAL_TEST_AD = "ca-app-pub-2585941790923895/3542287477"
     const val NATIVE_TEST_AD = "ca-app-pub-2585941790923895/1737099836"
 
     // interval interstitial tiap klik wallpaper, logo, save, fullscreen dll

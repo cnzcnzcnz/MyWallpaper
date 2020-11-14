@@ -12,8 +12,8 @@ android {
         applicationId "com.abstraksi.attackontitan"
         minSdkVersion 19
         targetSdkVersion 30
-        versionCode 15
-        versionName "2.0.6"
+        versionCode 1
+        versionName "1.0.0"
         buildConfigField "String", "BASE_URL", "\"https://api.pinterest.com/v3/\""
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         multiDexEnabled true
