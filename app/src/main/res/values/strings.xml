@@ -2,10 +2,10 @@
 
     <!-- silahkan diubah -->
     <string name="app_name">BTS Wallpaper - The Newest Wallpaper of BTS 2020</string>
-    <string name="admob_app_id">ca-app-pub-2585941790923895~7008865552</string>
+    <string name="admob_app_id">ca-app-pub-9900143605661791~9908201491</string>
     <string name="share_message">Hey download me if you wanna see your newest bias Photo!!</string>
     <string name="more_app_link">https://play.google.com/store/apps/developer?id=Abstraksi+Developer</string>
-    <string name="disclaimer">This application is made by fans, and it is unofficial. The content in this app is not affiliated with, endorsed, sponsored, or specifically approved by any company. This app is mainly for entertainment and for all fans to enjoy these wallpapers. If we have violated any copyright by use of any images included in this app, plase get in touch with us at email@gmail.com and we shall promptly remove it. Thank you!</string>
+    <string name="disclaimer">This application is made by fans, and it is unofficial. The content in this app is not affiliated with, endorsed, sponsored, or specifically approved by any company. This app is mainly for entertainment and for all fans to enjoy these wallpapers. If we have violated any copyright by use of any images included in this app, plase get in touch with us at abstraksideveloper@gmail.com and we shall promptly remove it. Thank you!</string>
 
     <!-- boleh diubah boleh tidak, saran biarkan saja -->
     <string name="menu_home">Home</string>

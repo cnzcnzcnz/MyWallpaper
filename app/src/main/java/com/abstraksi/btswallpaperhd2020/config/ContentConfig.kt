@@ -16,5 +16,5 @@ var INIT_JUMLAH_PHOTO_PER_ALBUM = 50
 //const val APP_FCM_TOPIC = "riefistapp_catwallpaper_tospic"
 const val APP_FCM_TOPIC = "abstraksi_btswallpaper_topic"
 
-const val SHOW_PRIVACY_POLICY = false // ubah ke false jika tidak ingin menggunakan privacy policy
-const val PRIVACY_POLICY_URL = "https://privacy-policy-aot-wallpaper.netlify.app/"
+const val SHOW_PRIVACY_POLICY = true // ubah ke false jika tidak ingin menggunakan privacy policy
+const val PRIVACY_POLICY_URL = "https://privacy-policy-bts.netlify.app"
