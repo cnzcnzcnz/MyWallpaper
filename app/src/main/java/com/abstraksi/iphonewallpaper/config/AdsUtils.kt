@@ -1,5 +1,7 @@
 package com.abstraksi.iphonewallpaper.config
 
+import com.abstraksi.iphonewallpaper.R
+
 object AdsUtils {
 
     // Jangan diubah
@@ -9,24 +11,24 @@ object AdsUtils {
     // ADMOB PUBLISHER ID
 //    var ADMOB_PUB_ID = "pub-2645249444311791"
 //    pub-3559020312196470
-    var ADMOB_PUB_ID = "pub-2585941790923895"
+    var ADMOB_PUB_ID = "pub-9900143605661791"
 
     // ADMOB APP ID (ubah di res -> values -> strings juga)
-    var ADMOB_APP_ID = "ca-app-pub-2585941790923895~4280514451"
+    var ADMOB_APP_ID = R.string.admob_app_id.toString()
 
     // ADMOB IKLAN ID
-    var ADMOB_BANNER_ID = "ca-app-pub-2585941790923895/6495297020"
-    var ADMOB_INTERSTITIAL_ID = "ca-app-pub-2585941790923895/5182215359"
-    var ADMOB_NATIVE_ID = "ca-app-pub-2585941790923895/6195914120"
+    var ADMOB_BANNER_ID = "ca-app-pub-9900143605661791/9494689406"
+    var ADMOB_INTERSTITIAL_ID = "ca-app-pub-9900143605661791/8181607731"
+    var ADMOB_NATIVE_ID = "ca-app-pub-9900143605661791/2155255435"
 
     // ADMOB FOR TEST
-//    const val BANNER_TEST_AD = "ca-app-pub-3940256099942544/6300978111"
-//    const val INTERSTITIAL_TEST_AD = "ca-app-pub-3940256099942544/1033173712"
-//    const val NATIVE_TEST_AD = "ca-app-pub-3940256099942544/2247696110"
+    const val BANNER_TEST_AD = "ca-app-pub-3940256099942544/6300978111"
+    const val INTERSTITIAL_TEST_AD = "ca-app-pub-3940256099942544/1033173712"
+    const val NATIVE_TEST_AD = "ca-app-pub-3940256099942544/2247696110"
 
-    const val BANNER_TEST_AD = "ca-app-pub-2585941790923895/6495297020"
-    const val INTERSTITIAL_TEST_AD = "ca-app-pub-2585941790923895/5182215359"
-    const val NATIVE_TEST_AD = "ca-app-pub-2585941790923895/6195914120"
+//    const val BANNER_TEST_AD = "ca-app-pub-2585941790923895/6495297020"
+//    const val INTERSTITIAL_TEST_AD = "ca-app-pub-2585941790923895/5182215359"
+//    const val NATIVE_TEST_AD = "ca-app-pub-2585941790923895/6195914120"
 
     // interval interstitial tiap klik wallpaper, logo, save, fullscreen dll
     var INTERSTITIAL_INTERVAL = 6
