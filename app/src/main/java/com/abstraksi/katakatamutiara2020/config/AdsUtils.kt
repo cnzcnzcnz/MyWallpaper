@@ -22,13 +22,13 @@ object AdsUtils {
     var ADMOB_NATIVE_ID = "ca-app-pub-9900143605661791/7988615167"
 
     // ADMOB FOR TEST
-//    const val BANNER_TEST_AD = "ca-app-pub-3940256099942544/6300978111"
-//    const val INTERSTITIAL_TEST_AD = "ca-app-pub-3940256099942544/1033173712"
-//    const val NATIVE_TEST_AD = "ca-app-pub-3940256099942544/2247696110"
+    const val BANNER_TEST_AD = "ca-app-pub-3940256099942544/6300978111"
+    const val INTERSTITIAL_TEST_AD = "ca-app-pub-3940256099942544/1033173712"
+    const val NATIVE_TEST_AD = "ca-app-pub-3940256099942544/2247696110"
 
-    const val BANNER_TEST_AD = "ca-app-pub-9900143605661791/5738033957"
-    const val INTERSTITIAL_TEST_AD = "ca-app-pub-9900143605661791/1866059943"
-    const val NATIVE_TEST_AD = "ca-app-pub-9900143605661791/7988615167"
+//    const val BANNER_TEST_AD = "ca-app-pub-9900143605661791/5738033957"
+//    const val INTERSTITIAL_TEST_AD = "ca-app-pub-9900143605661791/1866059943"
+//    const val NATIVE_TEST_AD = "ca-app-pub-9900143605661791/7988615167"
 
     // interval interstitial tiap klik wallpaper, logo, save, fullscreen dll
     var INTERSTITIAL_INTERVAL = 4
