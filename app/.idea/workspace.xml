@@ -9,18 +9,13 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30c3a04c-0443-4177-9c7a-0d1ae6fe2ccc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/attackontitan/config/AdsUtils.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/attackontitan/config/AdsUtils.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values/strings.xml" afterDir="false" />
-    </list>
+    <list default="true" id="30c3a04c-0443-4177-9c7a-0d1ae6fe2ccc" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Redmi_Note_4]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -34,7 +29,44 @@
         </task>
         <projects_view>
           <tree_state>
-            <expand />
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="MyWallpaper" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="MyWallpaper" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="MyWallpaper" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="MyWallpaper" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="android" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="MyWallpaper" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="MyWallpaper" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="install" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
             <select />
           </tree_state>
         </projects_view>
@@ -43,7 +75,7 @@
   </component>
   <component name="GenerateSignedApkSettings">
     <option name="EXPORT_PRIVATE_KEY" value="false" />
-    <option name="KEY_STORE_PATH" value="$PROJECT_DIR$/../../Assets/Image/AssetsAttackOnTitan/keyStore.jks" />
+    <option name="KEY_STORE_PATH" value="$PROJECT_DIR$/../../Assets/Image/AssetsBTSWallpaper/keyStore" />
     <option name="KEY_ALIAS" value="key0" />
     <option name="REMEMBER_PASSWORDS" value="true" />
   </component>
@@ -56,9 +88,9 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ApkExportedModule" value="app" />
+    <property name="ApkExportedModule" value="MyWallpaper.app" />
     <property name="BundleExportedModule" value="MyWallpaper.app" />
-    <property name="ExportApk.ApkPath" value="$PROJECT_DIR$/../../Assets/Image/AssetsKatakataMutiara/release" />
+    <property name="ExportApk.ApkPath" value="$PROJECT_DIR$/../../Assets/Image/AssetsBTSWallpaper/release" />
     <property name="ExportApk.BuildVariants" value="release" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -174,75 +206,47 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="518" y="234" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605172131525">
+    <state x="518" y="234" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603699104895">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.-581.1200.1880@0.0.1920.1040" timestamp="1603632911073" />
-    <state x="518" y="234" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.823@0.23.1440.823" timestamp="1605172131525" />
+    <state x="518" y="234" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.823@0.23.1440.823" timestamp="1603699104895" />
     <state x="739" y="172" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1603531275094">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="739" y="172" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.1920.1040/1920.-581.1200.1880@0.0.1920.1040" timestamp="1603531275094" />
-    <state x="100" y="100" width="1240" height="700" key="AVDManager" timestamp="1603792200671">
-      <screen x="0" y="23" width="1440" height="823" />
-    </state>
-    <state x="100" y="100" width="1240" height="700" key="AVDManager/0.23.1440.823@0.23.1440.823" timestamp="1603792200671" />
-    <state width="459" height="466" key="DebuggerActiveHint" timestamp="1603785152385">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="459" height="466" key="DebuggerActiveHint/0.0.1440.900@0.0.1440.900" timestamp="1603785152385" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1603536263461">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.-581.1200.1880@0.0.1920.1040" timestamp="1603536263461" />
-    <state x="0" y="161" key="FileDocumentManager.FileCacheConflict" timestamp="1605662280280">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="0" y="161" key="FileDocumentManager.FileCacheConflict/0.0.1440.900@0.0.1440.900" timestamp="1605662280280" />
-    <state width="1396" height="207" key="GridCell.Tab.0.bottom" timestamp="1606462147266">
+    <state width="1178" height="207" key="GridCell.Tab.0.bottom" timestamp="1605928178484">
       <screen x="0" y="25" width="1440" height="817" />
     </state>
-    <state width="1396" height="244" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1605662377208" />
+    <state width="1396" height="244" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1605450766994" />
     <state width="1877" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-581.1200.1880@0.0.1920.1040" timestamp="1603537509610" />
-    <state width="1396" height="212" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1604989811247" />
-    <state width="1396" height="207" key="GridCell.Tab.0.bottom/0.25.1440.817@0.25.1440.817" timestamp="1606462147266" />
-    <state width="1396" height="207" key="GridCell.Tab.0.center" timestamp="1606462147265">
+    <state width="1396" height="212" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1604636528063" />
+    <state width="1178" height="207" key="GridCell.Tab.0.bottom/0.25.1440.817@0.25.1440.817" timestamp="1605928178484" />
+    <state width="1178" height="207" key="GridCell.Tab.0.center" timestamp="1605928178483">
       <screen x="0" y="25" width="1440" height="817" />
     </state>
-    <state width="1396" height="244" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1605662377207" />
+    <state width="1396" height="244" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1605450766993" />
     <state width="1877" height="276" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-581.1200.1880@0.0.1920.1040" timestamp="1603537509609" />
-    <state width="1396" height="212" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1604989811246" />
-    <state width="1396" height="207" key="GridCell.Tab.0.center/0.25.1440.817@0.25.1440.817" timestamp="1606462147265" />
-    <state width="1396" height="207" key="GridCell.Tab.0.left" timestamp="1606462147265">
+    <state width="1396" height="212" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1604636528062" />
+    <state width="1178" height="207" key="GridCell.Tab.0.center/0.25.1440.817@0.25.1440.817" timestamp="1605928178483" />
+    <state width="1178" height="207" key="GridCell.Tab.0.left" timestamp="1605928178483">
       <screen x="0" y="25" width="1440" height="817" />
     </state>
-    <state width="1396" height="244" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1605662377206" />
+    <state width="1396" height="244" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1605450766993" />
     <state width="1877" height="276" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-581.1200.1880@0.0.1920.1040" timestamp="1603537509609" />
-    <state width="1396" height="212" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1604989811245" />
-    <state width="1396" height="207" key="GridCell.Tab.0.left/0.25.1440.817@0.25.1440.817" timestamp="1606462147265" />
-    <state width="1396" height="207" key="GridCell.Tab.0.right" timestamp="1606462147265">
+    <state width="1396" height="212" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1604636528062" />
+    <state width="1178" height="207" key="GridCell.Tab.0.left/0.25.1440.817@0.25.1440.817" timestamp="1605928178483" />
+    <state width="1178" height="207" key="GridCell.Tab.0.right" timestamp="1605928178483">
       <screen x="0" y="25" width="1440" height="817" />
     </state>
-    <state width="1396" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1605662377207" />
+    <state width="1396" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1605450766994" />
     <state width="1877" height="276" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-581.1200.1880@0.0.1920.1040" timestamp="1603537509610" />
-    <state width="1396" height="212" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1604989811247" />
-    <state width="1396" height="207" key="GridCell.Tab.0.right/0.25.1440.817@0.25.1440.817" timestamp="1606462147265" />
-    <state width="1396" height="245" key="GridCell.Tab.1.bottom" timestamp="1603789517336">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1396" height="245" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1603789517336" />
-    <state width="1396" height="245" key="GridCell.Tab.1.center" timestamp="1603789517335">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1396" height="245" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1603789517335" />
-    <state width="1396" height="245" key="GridCell.Tab.1.left" timestamp="1603789517335">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1396" height="245" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1603789517335" />
-    <state width="1396" height="245" key="GridCell.Tab.1.right" timestamp="1603789517335">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1396" height="245" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1603789517335" />
+    <state width="1396" height="212" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1604636528062" />
+    <state width="1178" height="207" key="GridCell.Tab.0.right/0.25.1440.817@0.25.1440.817" timestamp="1605928178483" />
     <state x="100" y="100" width="1720" height="840" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1603523102333">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -251,82 +255,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="296" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.-581.1200.1880@0.0.1920.1040" timestamp="1603632649681" />
-    <state x="779" y="138" width="661" height="637" key="find.popup" timestamp="1604555288169">
+    <state x="855" y="138" width="585" height="637" key="find.popup" timestamp="1603683048761">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state x="797" y="126" width="643" height="697" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1603783360009" />
     <state x="1167" y="145" width="607" height="804" key="find.popup/0.0.1920.1040/1920.-581.1200.1880@0.0.1920.1040" timestamp="1603632752902" />
-    <state x="779" y="138" width="661" height="637" key="find.popup/0.23.1440.823@0.23.1440.823" timestamp="1604555288169" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/abstraksi/attackontitan/service/UpdateDataService.kt</url>
-          <line>69</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/abstraksi/attackontitan/service/UpdateDataService.kt</url>
-          <line>70</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/abstraksi/attackontitan/service/UpdateDataService.kt</url>
-          <line>71</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/abstraksi/attackontitan/service/MyFirebaseMessagingService.kt</url>
-          <line>24</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/abstraksi/attackontitan/service/MyFirebaseMessagingService.kt</url>
-          <line>25</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/abstraksi/attackontitan/service/MyFirebaseMessagingService.kt</url>
-          <line>27</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/abstraksi/attackontitan/service/MyFirebaseMessagingService.kt</url>
-          <line>29</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/abstraksi/attackontitan/service/MyFirebaseMessagingService.kt</url>
-          <line>28</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/abstraksi/attackontitan/service/MyFirebaseMessagingService.kt</url>
-          <line>30</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/abstraksi/attackontitan/service/MyFirebaseMessagingService.kt</url>
-          <line>51</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/abstraksi/attackontitan/service/MyFirebaseMessagingService.kt</url>
-          <line>52</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/abstraksi/attackontitan/service/MyFirebaseMessagingService.kt</url>
-          <line>53</line>
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/abstraksi/attackontitan/service/MyFirebaseMessagingService.kt</url>
-          <line>55</line>
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state x="855" y="138" width="585" height="637" key="find.popup/0.23.1440.823@0.23.1440.823" timestamp="1603683048761" />
   </component>
 </project>
