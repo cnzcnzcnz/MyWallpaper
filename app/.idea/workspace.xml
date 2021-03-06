@@ -10,91 +10,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30c3a04c-0443-4177-9c7a-0d1ae6fe2ccc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/splashscreen.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/assetWizardSettings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/assetWizardSettings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_bumptech_glide_gifdecoder_4_9_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_bumptech_glide_gifdecoder_4_9_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_bumptech_glide_glide_4_9_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_bumptech_glide_glide_4_9_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_anko_commons_base_0_10_8_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_anko_commons_base_0_10_8_aar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/google-services.json" beforeDir="false" afterPath="$PROJECT_DIR$/google-services.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/proguard-rules.pro" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/ic_launcher-playstore.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/ic_launcher-playstore.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/attackontitan/App.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/App.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/attackontitan/config/AdsHelper.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/config/AdsHelper.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/attackontitan/config/AdsUtils.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/config/AdsUtils.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/attackontitan/config/ContentConfig.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/config/ContentConfig.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/attackontitan/data/db/AppDatabase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/data/db/AppDatabase.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/attackontitan/data/db/dao/BaseDao.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/data/db/dao/BaseDao.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/attackontitan/data/db/dao/FavoriteDao.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/data/db/dao/FavoriteDao.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/attackontitan/data/db/dao/PhotoDao.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/data/db/dao/PhotoDao.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/attackontitan/data/db/entity/FavoriteEntity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/data/db/entity/FavoriteEntity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/attackontitan/data/db/entity/PhotoEntity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/data/db/entity/PhotoEntity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/attackontitan/data/mapper/PhotoMapper.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/data/mapper/PhotoMapper.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/attackontitan/data/pref/PreferencesHelper.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/data/pref/PreferencesHelper.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/attackontitan/data/remote/ApiClient.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/data/remote/ApiClient.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/attackontitan/data/remote/response/AdsJsonResponse.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/data/remote/response/AdsJsonResponse.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/attackontitan/data/remote/response/ListPhotoPinterestResponse.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/data/remote/response/ListPhotoPinterestResponse.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/attackontitan/data/remote/service/ApiService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/data/remote/service/ApiService.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/attackontitan/data/repository/AdsJsonRepositoryImpl.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/data/repository/AdsJsonRepositoryImpl.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/attackontitan/data/repository/PhotoRepositoryImpl.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/data/repository/PhotoRepositoryImpl.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/attackontitan/di/Modules.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/di/Modules.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/attackontitan/domain/Photo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/domain/Photo.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/attackontitan/domain/repository/AdsJsonRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/domain/repository/AdsJsonRepository.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/attackontitan/domain/repository/PhotoRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/domain/repository/PhotoRepository.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/attackontitan/presentation/base/BaseActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/presentation/base/BaseActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/attackontitan/presentation/base/BaseViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/presentation/base/BaseViewModel.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/attackontitan/presentation/main/FavoriteActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/presentation/main/FavoriteActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/attackontitan/presentation/main/HomeActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/presentation/main/HomeActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/attackontitan/presentation/main/PhotoViewActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/presentation/main/PhotoViewActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/attackontitan/presentation/main/PrivacyPolicyActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/presentation/main/PrivacyPolicyActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/attackontitan/presentation/main/SplashActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/presentation/main/SplashActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/attackontitan/presentation/main/fragment/PhotoListFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/presentation/main/fragment/PhotoListFragment.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/attackontitan/presentation/main/fragment/PhotoViewFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/presentation/main/fragment/PhotoViewFragment.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/attackontitan/presentation/main/item/FanNativeItem.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/presentation/main/item/FanNativeItem.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/attackontitan/presentation/main/item/NativeAdItem.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/presentation/main/item/NativeAdItem.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/attackontitan/presentation/main/item/PhotoItem.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/presentation/main/item/PhotoItem.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/attackontitan/presentation/state/UiState.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/presentation/state/UiState.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/attackontitan/presentation/viewmodel/AdsJsonViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/presentation/viewmodel/AdsJsonViewModel.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/attackontitan/presentation/viewmodel/PhotoViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/presentation/viewmodel/PhotoViewModel.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/attackontitan/service/MaterialLiveWallpaperService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/service/MaterialLiveWallpaperService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/attackontitan/service/MyFirebaseMessagingService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/service/MyFirebaseMessagingService.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/attackontitan/service/UpdateDataService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/service/UpdateDataService.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/attackontitan/utils/Constants.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/utils/Constants.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/attackontitan/utils/EdlessRecyclerViewScrollListener.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/utils/EdlessRecyclerViewScrollListener.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/attackontitan/utils/Ext.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/utils/Ext.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/attackontitan/utils/ItemOffsetDecoration.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/utils/ItemOffsetDecoration.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/attackontitan/utils/Utils.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/utils/Utils.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/attackontitan/utils/listener/OnAppItemClickListener.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/utils/listener/OnAppItemClickListener.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/attackontitan/utils/rx/AppSchedulerProvider.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/utils/rx/AppSchedulerProvider.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/attackontitan/utils/rx/RxExt.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/utils/rx/RxExt.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/attackontitan/utils/rx/SchedulerProvider.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/utils/rx/SchedulerProvider.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/splashscreen.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/config/AdsUtils.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/config/AdsUtils.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/config/ContentConfig.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/config/ContentConfig.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Redmi_Note_4]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />

@@ -11,15 +11,15 @@ object AdsUtils {
     // ADMOB PUBLISHER ID
 //    var ADMOB_PUB_ID = "pub-2645249444311791"
 //    pub-3559020312196470
-    var ADMOB_PUB_ID = "pub-9900143605661791"
+    var ADMOB_PUB_ID = ""
 
     // ADMOB APP ID (ubah di res -> values -> strings juga)
-    var ADMOB_APP_ID = R.string.admob_app_id.toString()
+    var ADMOB_APP_ID = "R.string.admob_app_id.toString()"
 
     // ADMOB IKLAN ID
-    var ADMOB_BANNER_ID = "ca-app-pub-9900143605661791/2354412397"
-    var ADMOB_INTERSTITIAL_ID = "ca-app-pub-9900143605661791/7223595694"
-    var ADMOB_NATIVE_ID = "ca-app-pub-9900143605661791/8460107001"
+    var ADMOB_BANNER_ID = ""
+    var ADMOB_INTERSTITIAL_ID = ""
+    var ADMOB_NATIVE_ID = ""
 
     // ADMOB FOR TEST
     const val BANNER_TEST_AD = "ca-app-pub-3940256099942544/6300978111"
