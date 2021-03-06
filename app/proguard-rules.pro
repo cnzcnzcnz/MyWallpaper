@@ -88,7 +88,7 @@
 }
 
 # wajib ubah package name (id.yourcompanyname.mywallpaper) sesuai dgn package name aplikasi
--keep class com.abstraksi.attackontitan.data.remote.** { *; }
+-keep class com.abstraksi.aesthetic.data.remote.** { *; }
 
 #android svg
 -dontwarn com.caverock.androidsvg.**
