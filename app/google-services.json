@@ -121,6 +121,43 @@
     },
     {
       "client_info": {
+        "mobilesdk_app_id": "1:258009727548:android:1621f835de910fe6c4b939",
+        "android_client_info": {
+          "package_name": "com.abstraksi.desktopwallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258009727548-2sh19vqb09hn1311meo60ke746ro6pjl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abstraksi.desktopwallpaper",
+            "certificate_hash": "97251d69a264dc9ef91c14521adb7c629556d320"
+          }
+        },
+        {
+          "client_id": "258009727548-7fjb6nkl5vvlk6khtpajkv8sv1r1t7pt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIF0w1aSgD1PCDR4sPX5MaXXVKpb4bLSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258009727548-7fjb6nkl5vvlk6khtpajkv8sv1r1t7pt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:258009727548:android:2d30a27cc4a88811c4b939",
         "android_client_info": {
           "package_name": "com.abstraksi.gambarpemainbola"
