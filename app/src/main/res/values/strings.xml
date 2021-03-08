@@ -1,9 +1,9 @@
 <resources>
 
     <!-- silahkan diubah -->
-    <string name="app_name">Aesthetic Wallpaper 2021</string>
-    <string name="admob_app_id">ca-app-pub-9900143605661791~1807617489</string>
-    <string name="share_message">Make your device more aesthetic with our wallpaper collection</string>
+    <string name="app_name">Quotes 2021</string>
+    <string name="admob_app_id">ca-app-pub-9900143605661791~6798916251</string>
+    <string name="share_message">Make your day even more beautiful with our beautiful quotes collection</string>
     <string name="more_app_link">https://play.google.com/store/apps/developer?id=Abstraksi+Developer</string>
     <string name="disclaimer">This application is made by fans, and it is unofficial. The content in this app is not affiliated with, endorsed, sponsored, or specifically approved by any company. This app is mainly for entertainment and for all fans to enjoy these wallpapers. If we have violated any copyright by use of any images included in this app, plase get in touch with us at abstraksideveloper@gmail.com and we shall promptly remove it. Thank you!</string>
 
