@@ -10,62 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30c3a04c-0443-4177-9c7a-0d1ae6fe2ccc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/google-services.json" beforeDir="false" afterPath="$PROJECT_DIR$/google-services.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/proguard-rules.pro" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/App.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/quotes/App.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/config/AdsHelper.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/quotes/config/AdsHelper.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/config/AdsUtils.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/quotes/config/AdsUtils.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/config/ContentConfig.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/quotes/config/ContentConfig.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/data/db/AppDatabase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/quotes/data/db/AppDatabase.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/data/db/dao/BaseDao.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/quotes/data/db/dao/BaseDao.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/data/db/dao/FavoriteDao.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/quotes/data/db/dao/FavoriteDao.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/data/db/dao/PhotoDao.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/quotes/data/db/dao/PhotoDao.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/data/db/entity/FavoriteEntity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/quotes/data/db/entity/FavoriteEntity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/data/db/entity/PhotoEntity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/quotes/data/db/entity/PhotoEntity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/data/mapper/PhotoMapper.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/quotes/data/mapper/PhotoMapper.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/data/pref/PreferencesHelper.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/quotes/data/pref/PreferencesHelper.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/data/remote/ApiClient.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/quotes/data/remote/ApiClient.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/data/remote/response/AdsJsonResponse.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/quotes/data/remote/response/AdsJsonResponse.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/data/remote/response/ListPhotoPinterestResponse.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/quotes/data/remote/response/ListPhotoPinterestResponse.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/data/remote/service/ApiService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/quotes/data/remote/service/ApiService.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/data/repository/AdsJsonRepositoryImpl.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/quotes/data/repository/AdsJsonRepositoryImpl.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/data/repository/PhotoRepositoryImpl.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/quotes/data/repository/PhotoRepositoryImpl.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/di/Modules.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/quotes/di/Modules.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/domain/Photo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/quotes/domain/Photo.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/domain/repository/AdsJsonRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/quotes/domain/repository/AdsJsonRepository.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/domain/repository/PhotoRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/quotes/domain/repository/PhotoRepository.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/presentation/base/BaseActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/quotes/presentation/base/BaseActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/presentation/base/BaseViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/quotes/presentation/base/BaseViewModel.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/presentation/main/FavoriteActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/quotes/presentation/main/FavoriteActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/presentation/main/HomeActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/quotes/presentation/main/HomeActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/presentation/main/PhotoViewActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/quotes/presentation/main/PhotoViewActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/presentation/main/PrivacyPolicyActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/quotes/presentation/main/PrivacyPolicyActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/presentation/main/SplashActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/quotes/presentation/main/SplashActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/presentation/main/fragment/PhotoListFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/quotes/presentation/main/fragment/PhotoListFragment.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/presentation/main/fragment/PhotoViewFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/quotes/presentation/main/fragment/PhotoViewFragment.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/presentation/main/item/FanNativeItem.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/quotes/presentation/main/item/FanNativeItem.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/presentation/main/item/NativeAdItem.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/quotes/presentation/main/item/NativeAdItem.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/presentation/main/item/PhotoItem.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/quotes/presentation/main/item/PhotoItem.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/presentation/state/UiState.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/quotes/presentation/state/UiState.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/presentation/viewmodel/AdsJsonViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/quotes/presentation/viewmodel/AdsJsonViewModel.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/presentation/viewmodel/PhotoViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/quotes/presentation/viewmodel/PhotoViewModel.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/service/MaterialLiveWallpaperService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/quotes/service/MaterialLiveWallpaperService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/service/MyFirebaseMessagingService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/quotes/service/MyFirebaseMessagingService.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/service/UpdateDataService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/quotes/service/UpdateDataService.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/utils/Constants.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/quotes/utils/Constants.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/utils/EdlessRecyclerViewScrollListener.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/quotes/utils/EdlessRecyclerViewScrollListener.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/utils/Ext.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/quotes/utils/Ext.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/utils/ItemOffsetDecoration.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/quotes/utils/ItemOffsetDecoration.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/utils/Utils.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/quotes/utils/Utils.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/utils/listener/OnAppItemClickListener.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/quotes/utils/listener/OnAppItemClickListener.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/utils/rx/AppSchedulerProvider.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/quotes/utils/rx/AppSchedulerProvider.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/utils/rx/RxExt.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/quotes/utils/rx/RxExt.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/abstraksi/aesthetic/utils/rx/SchedulerProvider.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/abstraksi/quotes/utils/rx/SchedulerProvider.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values/strings.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -268,29 +213,29 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="698" y="291" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.413.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1614856223735" />
-    <state width="1386" height="301" key="GridCell.Tab.0.bottom" timestamp="1615179421198">
+    <state width="1386" height="301" key="GridCell.Tab.0.bottom" timestamp="1615180506072">
       <screen x="0" y="25" width="1920" height="997" />
     </state>
     <state width="1396" height="243" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1614754201238" />
     <state width="1876" height="301" key="GridCell.Tab.0.bottom/1920.413.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1615001665864" />
-    <state width="1386" height="301" key="GridCell.Tab.0.bottom/1920.438.1440.875/0.25.1920.997@0.25.1920.997" timestamp="1615179421198" />
-    <state width="1386" height="301" key="GridCell.Tab.0.center" timestamp="1615179421196">
+    <state width="1386" height="301" key="GridCell.Tab.0.bottom/1920.438.1440.875/0.25.1920.997@0.25.1920.997" timestamp="1615180506072" />
+    <state width="1386" height="301" key="GridCell.Tab.0.center" timestamp="1615180506071">
       <screen x="0" y="25" width="1920" height="997" />
     </state>
     <state width="1396" height="243" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1614754201237" />
     <state width="1876" height="301" key="GridCell.Tab.0.center/1920.413.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1615001665863" />
-    <state width="1386" height="301" key="GridCell.Tab.0.center/1920.438.1440.875/0.25.1920.997@0.25.1920.997" timestamp="1615179421195" />
-    <state width="1386" height="301" key="GridCell.Tab.0.left" timestamp="1615179421192">
+    <state width="1386" height="301" key="GridCell.Tab.0.center/1920.438.1440.875/0.25.1920.997@0.25.1920.997" timestamp="1615180506071" />
+    <state width="1386" height="301" key="GridCell.Tab.0.left" timestamp="1615180506070">
       <screen x="0" y="25" width="1920" height="997" />
     </state>
     <state width="1396" height="243" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1614754201237" />
     <state width="1876" height="301" key="GridCell.Tab.0.left/1920.413.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1615001665862" />
-    <state width="1386" height="301" key="GridCell.Tab.0.left/1920.438.1440.875/0.25.1920.997@0.25.1920.997" timestamp="1615179421192" />
-    <state width="1386" height="301" key="GridCell.Tab.0.right" timestamp="1615179421196">
+    <state width="1386" height="301" key="GridCell.Tab.0.left/1920.438.1440.875/0.25.1920.997@0.25.1920.997" timestamp="1615180506070" />
+    <state width="1386" height="301" key="GridCell.Tab.0.right" timestamp="1615180506071">
       <screen x="0" y="25" width="1920" height="997" />
     </state>
     <state width="1396" height="243" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1614754201238" />
     <state width="1876" height="301" key="GridCell.Tab.0.right/1920.413.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1615001665863" />
-    <state width="1386" height="301" key="GridCell.Tab.0.right/1920.438.1440.875/0.25.1920.997@0.25.1920.997" timestamp="1615179421196" />
+    <state width="1386" height="301" key="GridCell.Tab.0.right/1920.438.1440.875/0.25.1920.997@0.25.1920.997" timestamp="1615180506071" />
   </component>
 </project>
